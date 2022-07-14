@@ -1,6 +1,5 @@
-[![MasterHead](https://images.hdqwalls.com/wallpapers/eat-sleep-code-repeat-er.jpg)]()
-<h1 align="center">Hi 👋, I'm Lachhab Choukr Allah</h1>
-<h6 align="center">Hello, my name is Choukr Allah Lachhab , 21 years old . I am a dedicated and hard-working person . My background is in the intersection of software engineering and data science. I am graduating as a software developer from the national school For Computer Science (ENSIAS, RABAT-MOROCCO) and as a data scientist from the National Schoolof Computing for Industry and Business (ENSIIE, PARIS-FRANCE). I am skillful at programming and coding languages and I am working on every aspect of data analytics ,optimization, and predictive modeling.</h6>
+<h1 align="center">Hi there👋, I'm Lachhab Choukr Allah</h1>
+<h6 align="center">Hello, my name is <b>Choukr Allah Lachhab</b> , 21 years old . I am a dedicated and hard-working person . My background is in the intersection of software engineering and data science. I am graduating as a software developer from the national school For Computer Science (ENSIAS, RABAT-MOROCCO) and as a data scientist from the National Schoolof Computing for Industry and Business (ENSIIE, PARIS-FRANCE). I am skillful at programming and coding languages and I am working on every aspect of data analytics ,optimization, and predictive modeling.</h6>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
