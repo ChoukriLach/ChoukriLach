@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lac_choukrallah" target="blank"><img src="https://img.shields.io/twitter/follow/lac_choukrallah?logo=twitter&style=for-the-badge" alt="lac_choukrallah" /></a> </p>
 
-- 🔭 I’m currently working on **ML algorithms**
+- 🔭 I’m currently working on **Data science project**
 
 - 🌱 I’m currently learning **Data science**
 
