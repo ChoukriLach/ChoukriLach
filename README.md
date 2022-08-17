@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 💬 Ask me about **Android , MERN , Data science**
+- 💬 Ask me about **MERN , Data science**
 
 - 📫 How to reach me **choukrallah_lachhab@um5.ac.ma**
 
