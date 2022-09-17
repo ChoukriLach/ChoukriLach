@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋</h1>
-<h6 align="center">My name is LACHHAB Choukr Allah, 22 years old. I am a dedicated and hard-working person. My background is in the intersection of Web & Mobile development and data science. I am graduating as a Web & Mobile developer from the national school For Computer Science (ENSIAS, RABAT-MOROCCO) and as a data scientist from the National School of Computing for Industry and Business (ENSIIE, PARIS-FRANCE).</h6>
+<h6 align="center">My name is LACHHAB Choukr Allah, 22 years old. I am a dedicated and hard-working person. My background is in the intersection of Software engineering and data science. I am graduating as a Software engineer from the national school For Computer Science (ENSIAS, RABAT-MOROCCO) and as a data scientist from the National School of Computing for Industry and Business (ENSIIE, PARIS-FRANCE).</h6>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
