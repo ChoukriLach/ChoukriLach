@@ -1,16 +1,16 @@
 <h1 align="center">Hi there!👋</h1>
-<h6 align="center">My name is LACHHAB Choukr Allah, 22 years old. I am a dedicated and hard-working person. My background is in the intersection of Software engineering and data science. I am graduating as a Software engineer from the national school For Computer Science (ENSIAS, RABAT-MOROCCO) and as a data scientist from the National School of Computing for Industry and Business (ENSIIE, PARIS-FRANCE).</h6>
+<h6 align="center">Data & Computer Science Student | NLP enthusiast</h6>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 <p align="left"> <a href="https://twitter.com/lac_choukrallah" target="blank"><img src="https://img.shields.io/twitter/follow/lac_choukrallah?logo=twitter&style=for-the-badge" alt="lac_choukrallah" /></a> </p>
 
-- 🔭 I’m currently working on **Deep learning**
+- 🔭 I’m currently working on **Practical Natural Language Processing**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
-- 💬 Ask me about **MERN , Data science**
+- 💬 Ask me about **MERN , Data science , NLP**
 
 - 📫 How to reach me **choukrallah_lachhab@um5.ac.ma**
 
