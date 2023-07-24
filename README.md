@@ -3,23 +3,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-
-<p align="left"> <a href="https://twitter.com/lac_choukrallah" target="blank"><img src="https://img.shields.io/twitter/follow/lac_choukrallah?logo=twitter&style=for-the-badge" alt="lac_choukrallah" /></a> </p>
-
 - 🔭 I’m currently working on **Practical Natural Language Processing**
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
-- 💬 Ask me about **MERN , Data science , NLP**
+- 💬 Ask me about **Data science , NLP , MERN Stack**
 
 - 📫 How to reach me **choukrallah_lachhab@um5.ac.ma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lac_choukrallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lac_choukrallah" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/choukrallah-lachhab-0729bb207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choukrallah lachhab" height="30" width="40" /></a>
-<a href="https://www.facebook.com/chocrallah.lachhab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="choukrallah lachhab" height="30" width="40" /></a>
-<a href="https://www.instagram.com/choukrallah_lachhab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choukrallah lachhab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
