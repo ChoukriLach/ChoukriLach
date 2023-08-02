@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋</h1>
-<h6 align="center">Data & Computer Science Student | NLP enthusiast</h6>
+<h6 align="center">Data & Computer Science Engineer | NLP enthusiast</h6>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
