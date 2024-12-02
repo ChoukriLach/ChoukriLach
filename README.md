@@ -1,15 +1,9 @@
-<h1 align="center">Hi there!👋</h1>
-<h6 align="center">Data & Computer Science Student | NLP enthusiast</h6>
+<h1 align="center">Hi, My name is Lachhab Choukr allah!👋</h1>
+<h6 align="center"> Data scientist </h6>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **Practical Natural Language Processing**
-
-- 🌱 I’m currently learning **Natural Language Processing (NLP)**
-
-- 💬 Ask me about **Data science , NLP , MERN Stack**
-
-- 📫 How to reach me **choukrallah_lachhab@um5.ac.ma**
+I am an engineer with a keen interest in applied mathematics and data science. I have a solid foundation in machine learning algorithms, deep learning techniques, natural language processing, Generative AI, and LLMOps.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
